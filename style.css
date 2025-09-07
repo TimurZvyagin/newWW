@@ -214,7 +214,7 @@ z .header.fixed {
 
 .team {
   padding: 80px;
-  background-color: rgb(158, 158, 158);
+  background-color: rgb(255, 255, 255);
 }
 .team__inner {
   display: flex;
